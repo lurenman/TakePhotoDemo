@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <!--这个标题栏的颜色-->
+    <color name="multiple_image_select_primaryDark">#303F9F</color>
+    <!--这个设置标题拦选择图片时候的颜色-->
+    <color name="multiple_image_select_primary">#303F9F</color>
+</resources>
