@@ -1,10 +1,7 @@
 # TakePhotoDemo
 这个是android关于图库TakePhoto框架使用的demo，自定义了配置文件，非常好的图库选择
-# PhotoHelper
-# 这个类主要就是设置一些配置的
-   
-   
-   //裁切配置
+# PhotoHelpe 这个类主要就是设置一些配置的
+    //裁切配置
     private boolean isCrop=true;//是否裁切
     private int CropHeight=800;
     private int CropWidth=800;
