@@ -24,4 +24,4 @@
     private boolean enableRawFile=true;//拍照压缩后是否保存原图
     private boolean rbCorrect=false; //纠正拍照的照片旋转角度
  # 效果图   
-   ![image](https://github.com/lurenman/TakePhotoDemo/blob/master/device-2017-08-10-090642.png)
+
